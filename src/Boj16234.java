@@ -1,4 +1,3 @@
-package algor;
 
 import java.awt.Point;
 import java.io.BufferedReader;
