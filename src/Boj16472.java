@@ -26,7 +26,7 @@ public class Boj16472 {
                 len++;
             }
             max = Math.max(max,len);
-            if(max == str.length()){
+            if(max >= str.length()-l){
                 break;
             }
         }
